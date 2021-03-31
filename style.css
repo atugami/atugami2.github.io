@@ -1,0 +1,66 @@
+body{
+    font-family: serif;
+}
+.header-logo{
+    font-size: 50px;
+    color: oldlace;
+    padding-left: 20px;
+}
+li{
+    list-style: none;
+    float:left;
+    font-size: 25px;
+    padding-left: 30px;
+    
+}
+.header{
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSipjicNYdGrzqDcJH0kOJxxzjDeziqcz3nQ&usqp=CAU);
+    height:80px;
+    
+}
+.main-topa{
+    background-color: bisque;
+    height: 60px;
+}
+.main-top{
+    background-color:bisque;
+    height: 1000px;
+}
+h1{
+    float:left;
+}
+.main span{
+    color: black;
+}
+.mainu{
+    color: rgb(0, 17, 255);
+}
+.maina{
+    padding-right: 30px;
+}
+.footer{
+height: 250px;
+background-color: gray;
+}
+h3{
+    font-size: 25px;
+    padding-left: 30px;
+    padding-top: 30px;
+    
+}
+textarea{
+    padding-right: 300px;
+    padding-bottom: 50px;
+    background-color: rgb(245, 231, 199);
+    margin-left: 20px;
+}
+.comennto{
+    padding-left: 10px;
+    font-size: 20px;
+    
+}
+.contact-submit{
+    font-size: 20px; 
+    margin-left: 20px;
+    
+}
